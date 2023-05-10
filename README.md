@@ -33,7 +33,8 @@ Ahora que estas logueado deberias ver esta página
 
 En este menu podrias ver los post y paginas y hasta configurar tu perfil!
 
-![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/5b2ad093-34a7-42c4-a350-5c1e978d5f97)
+![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/6db97a23-d693-4509-bbe3-c3a502b11a5f)
+
 
 
 Y si ya llegaste a este punto, queria comentarte que quizá no estoy apegado a las instrucciones ya que hubo muy poco tiempo para desarrollarlo pero te tengo que decir que estoy bastante emocionado por el interes
