@@ -21,15 +21,17 @@ Ya te he creado un usuario :)
 usuario: carlos@doto.com
 contraseña: 1234567890
 
+![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/14c1a322-de57-450a-96da-497d94de5077)
 
-![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/367bffb0-e4ec-43aa-9a58-1054b1dd1abc)
+
 
 
 
 Ahora que estas logueado deberias ver esta página
 
 
-![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/14c1a322-de57-450a-96da-497d94de5077)
+
+![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/367bffb0-e4ec-43aa-9a58-1054b1dd1abc)
 
 
 
