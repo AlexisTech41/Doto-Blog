@@ -22,13 +22,15 @@ usuario: carlos@doto.com
 contraseña: 1234567890
 
 
-![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/443b20f6-68bb-4670-833a-714a7d3bc776)
+![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/367bffb0-e4ec-43aa-9a58-1054b1dd1abc)
+
 
 
 Ahora que estas logueado deberias ver esta página
 
 
-![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/af6ef674-fe70-44d6-ac80-2aec220b9b4a)
+![image](https://github.com/AlexisTech41/Doto-Blog/assets/115680147/14c1a322-de57-450a-96da-497d94de5077)
+
 
 
 En este menu podrias ver los post y paginas y hasta configurar tu perfil!
